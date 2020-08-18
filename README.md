@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hi there I am Het Shah 👋
 
-<!--
-**Het-Shah/Het-Shah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning to learn.
+- 👯 I’m looking to collaborate on any project with researchers and creators.
+- 💬 Ask me about anything!
+- 😄 Pronouns: he/him
 
-Here are some ideas to get you started:
+### Connect with me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img align="left" alt="het-shah.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="het__shah | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="het-shah163 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+<br/>
+
+---
+
+<img align="left" alt="Sharad24's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Het-Shah&show_icons=true&hide_border=true" />
+
+
+[website]: https://het-shah.github.io/
+[twitter]: https://twitter.com/het__shah
+[linkedin]: https://www.linkedin.com/in/het-shah163/

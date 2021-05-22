@@ -12,6 +12,9 @@
 [<img align="left" alt="het-shah163 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br/>
+<br/>
+
+![](https://komarev.com/ghpvc/?username=Het-Shah&color=green)
 
 ---
 
